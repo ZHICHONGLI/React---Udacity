@@ -3,11 +3,9 @@ import React, { Component } from 'react';
 class CreateContact extends Component {
   render() {
     return (
-      <div>
-        CreateContact
-      </div>
-    );
+      <div>Create Contact!</div>
+    )
   }
 }
 
-export default CreateContact;
+export default CreateContact
